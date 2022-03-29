@@ -1,0 +1,42 @@
+Voice XML, an introduction
+
+Voice XML offers an agenda for creating standard based voice applications that supports speech synthesis, dialogue management and much more.
+ Benefactors, by conveying mechanized voice services using a language like Voice XML, may open up new Web services to customers with the use of voice crossing point, like telephone.
+ The makers of the voice services can develop automated voice services using technology through which they developed visual Web sites.
+ Voice XML is designed in such a way so that it can be used for crafting audio dialogues that consists of blended speech, digitized audio, and acknowledgement of spoken and
+ DTMF key input and much more. The main aim of Voice XML is to fetch the benefits of Web based creation and delivery of content to communicative voice response applications.
+
+
+
+
+
+Voice Extensible Markup Language (VoiceXML) is a markup language for creating voice user interfaces that use automatic speech recognition (ASR) and text-to-speech synthesis (TTS).
+ The VoiceXML forum was formed in March 1999, by AT&T, IBM, Lucent and Motorola to promote and to accelerate the adoption of VoiceXML-based applications worldwide.<o:p>
+
+Today, more than 10,000 commercial VoiceXML-based speech applications have been deployed across a diverse set of industries, including financial services, government, insurance,
+ retail, telecommunications, transportation, travel and hospitality. Millions of calls are answered by VoiceXML applications every day!<o:p>
+
+Some of the things voice xml was designed for and is being used today are creating audio dialogs, digitized audio, spoken and DTMF key input recognition, spoken input recognition, 
+telephony and mixed initiative conversion.
+
+
+
+
+The architectural model of voice xml considers the following components.
+
+<o:p> 1) A document Server
+
+2) VoiceXML interpreter
+
+3) VoiceXML interpreter Context
+
+4) Implementation Platform.
+
+
+conclusion:
+
+
+VoiceXML is a markup language that minimizes client/server interactions, shields application authors, separates user interaction code (in VoiceXML) from service logic (CGI scripts), 
+and promotes service portability across implementation platforms.
+ VoiceXML is designed for creating audio dialogs to synthesize speech, digitized audio, recognition of spoken and DTMF key input, recording of spoken input, telephony,
+ and mixed-initiative conversations. VoiceXML development application is simplified with web infrastructure, tools and Web servers.
